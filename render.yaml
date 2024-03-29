@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: abura53-yukiyoutube-buturi
+    name: abura53-yuki-youtube-buturi
     env: python
     region: Oregon
     plan: free
